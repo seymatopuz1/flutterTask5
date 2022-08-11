@@ -62,6 +62,3 @@ class JobCard extends StatelessWidget {
     );
   }
 }
-
-/*I don't know where to start.
-I met BTS 3 years ago. At that time, there was a Şeyma who did not know what to do and had no dreams / human gave me the strength to implement my dreams and them, thank you. BTS*/
